@@ -1,0 +1,6 @@
+D:\Progtime2022\FindMaxApp\FindMaxApp\bin\Debug\FindMaxApp.exe.config
+D:\Progtime2022\FindMaxApp\FindMaxApp\bin\Debug\FindMaxApp.exe
+D:\Progtime2022\FindMaxApp\FindMaxApp\bin\Debug\FindMaxApp.pdb
+D:\Progtime2022\FindMaxApp\FindMaxApp\obj\Debug\FindMaxApp.csproj.CoreCompileInputs.cache
+D:\Progtime2022\FindMaxApp\FindMaxApp\obj\Debug\FindMaxApp.exe
+D:\Progtime2022\FindMaxApp\FindMaxApp\obj\Debug\FindMaxApp.pdb
