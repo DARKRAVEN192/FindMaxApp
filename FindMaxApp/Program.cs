@@ -10,6 +10,21 @@ namespace FindMaxApp
     {
         static void Main(string[] args)
         {
+            int max = int.MinValue;
+            int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
+            if (a>b)
+            {
+                max = a;
+            }
+            else
+            {
+                max = b;
+            }
+
+
+            Console.WriteLine(max);
+            Console.ReadLine();
         }
     }
 }
